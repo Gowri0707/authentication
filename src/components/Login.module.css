@@ -1,0 +1,30 @@
+.loginCard {
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+}
+
+.title {
+    color: white;
+    font-weight: bold;
+    font-size: x-large;
+    padding: 1rem;
+}
+
+.loginForm {
+    padding: 2rem;
+}
+
+.loginForm button {
+    border-radius: 8px;
+    border: 1px black solid;
+    background-color: rgb(181, 112, 245);
+    color: white;
+    padding: 6px 2rem;
+    margin: auto;
+}
+
+.link {
+    color: violet;
+    text-decoration: none;
+}

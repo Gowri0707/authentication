@@ -1,0 +1,24 @@
+.title {
+    font-weight: bold;
+    font-size: 5rem;
+    padding: 1rem;
+}
+
+.passwordInput input {
+    width: 20%;
+    border-radius: 6px;
+    background-color: rgb(253, 241, 224);
+}
+
+.passwordInput label {
+    color: black;
+}
+
+button {
+    border-radius: 8px;
+    border: 1px black solid;
+    background-color: rgb(66, 4, 124);
+    color: white;
+    padding: 8px 2rem;
+    margin: auto;
+}
