@@ -6,7 +6,7 @@ const Input = (props) => {
         <div className={styles}>
             <label>{props.label}</label>
             <input
-            ref={props.ref}
+            ref={props.reference}
             name={props.label}
             type={props.type} 
             />

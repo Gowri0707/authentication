@@ -15,7 +15,7 @@
     padding: 2rem;
 }
 
-.loginForm button {
+.loginFormButton {
     border-radius: 8px;
     border: 1px black solid;
     background-color: rgb(181, 112, 245);
@@ -27,4 +27,6 @@
 .link {
     color: violet;
     text-decoration: none;
+    border: none;
+    background: none;
 }
